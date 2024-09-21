@@ -58,7 +58,7 @@
     "dateformat": "^3.0.3",
     "detect-browser": "^4.0.4",
     "ethers": "^6.11.1",
-    "express": "^4.17.3",
+    "express": "^4.20.0",
     "express-ws": "^4.0.0",
     "file-type": "^12.3.0",
     "firebase-admin": "^10.1.0",
